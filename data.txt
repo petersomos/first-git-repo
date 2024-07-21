@@ -1,1 +1,13 @@
 This is a data file 
+
+git init
+git status
+git add data.txt
+git add code.py
+git commit -m "initial commit add two files
+git remote add origin https://github.com/petersomos/first-git-repo.git
+git branch -M main
+git push -u origin main
+git log
+
+git pull
